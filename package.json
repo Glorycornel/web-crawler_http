@@ -1,0 +1,23 @@
+{
+  "name": "web-crawler_http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Glorycornel/web-crawler_http.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Glorycornel/web-crawler_http/issues"
+  },
+  "homepage": "https://github.com/Glorycornel/web-crawler_http#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
